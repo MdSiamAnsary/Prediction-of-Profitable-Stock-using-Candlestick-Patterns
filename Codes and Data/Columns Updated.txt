@@ -1,0 +1,27 @@
+'Open',			0
+'High', 		1
+'Low', 			2
+'Close', 		3
+'Adj Close', 		4
+'Volume', 		5
+'Hammer',		6
+'Inverted Hammer',	7
+'Dragonfly Doji',	8
+'Spinning Top',		9
+'Engulfing',		10
+'Harami',		11
+'Piercing',		12
+'Morning Star',		13
+'Three White Soldiers',	14
+'Doji Star',		15
+'Morning Doji Star',	16
+'Three Inside',		17
+'Three Outside',	18
+'Doji',			19
+'Marubozu',		20
+'Hanging Man',		21
+'Shooting Star',	22 
+'Gravestone Doji',  	23
+'Dark Cloud Cover',	24
+'Evening Star',		25
+'Profitable'		26
